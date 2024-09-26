@@ -1,0 +1,17 @@
+{
+  "name": "encore-ts-starter",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Encore Typescript Starter",
+  "license": "MPL-2.0",
+  "type": "module",
+  "devDependencies": {
+    "@types/node": "^20.5.7",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.19.0",
+    "encore.dev": "^1.41.4",
+    "twitter-api-v2": "^1.17.2"
+  }
+}
