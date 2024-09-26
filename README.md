@@ -1,7 +1,3 @@
-Here’s a description you can use for your GitHub project:
-
----
-
 # Twitter Bot in Encore.ts
 
 This project implements a Twitter bot using Encore.ts that automatically posts tweets every hour. Leveraging the power of Google's Gemini AI, the bot generates creative, funny, and sarcastic tweets focused on themes like crypto and coding frustrations.
@@ -22,11 +18,11 @@ This project implements a Twitter bot using Encore.ts that automatically posts t
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/twitter-bot.git
+   git clone https://github.com/TalhaAhsanSh/x-bot-encore.ts.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd twitter-bot
+   cd x-bot-encore.ts
    ```
 3. Install the dependencies:
    ```bash
